@@ -14,10 +14,10 @@ Este es un proyecto en **Java Swing** que permite comprar frutas, agregarlas a u
 ## 🚀 Instalación y Ejecución
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/compra-frutas.git
+   git clone https://github.com/SerkaFox/TiendaFrutas.git
    ```
 2. Abre el proyecto en **IntelliJ IDEA, NetBeans o Eclipse**.
-3. Compila y ejecuta `Compra.java`.
+3. Compila y ejecuta `TiendaFrutas_GUI_SWING.java`.
 
 ## 🖥️ Captura de Pantalla
 ![Interfaz](images/Screenshot.png)
