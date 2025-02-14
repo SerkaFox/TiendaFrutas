@@ -20,7 +20,7 @@ Este es un proyecto en **Java Swing** que permite comprar frutas, agregarlas a u
 3. Compila y ejecuta `Compra.java`.
 
 ## 🖥️ Captura de Pantalla
-![Interfaz](images/screenshot.png)
+![Interfaz](images/Screenshot.png)
 
 
 ## 📜 Código Principal
